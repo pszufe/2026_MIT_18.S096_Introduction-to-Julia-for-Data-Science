@@ -1,5 +1,5 @@
 # Introduction to Julia for Data Science
-## Solving Optimization Problems
+## Optimization models
 Day 3 (Thursday, Jan 18, 2024, 1pm – 3pm)
 
 

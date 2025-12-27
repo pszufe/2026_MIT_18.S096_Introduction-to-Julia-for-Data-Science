@@ -1,5 +1,5 @@
 # Introduction to Julia for Data Science
-## Parallel computing
+## Parallel and distributed computing
 Day 4 (Friday, Jan 19, 2024, 1pm – 3pm)
 
 

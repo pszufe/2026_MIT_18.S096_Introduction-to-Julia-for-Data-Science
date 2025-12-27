@@ -1,5 +1,5 @@
 # Introduction to Julia for Data Science
-## Working with tabular data
+## Quick introduction to Julia
 Day 1 (Tuesday, Jan 16, 2024, 11:00am – 12:30pm)
 
 
