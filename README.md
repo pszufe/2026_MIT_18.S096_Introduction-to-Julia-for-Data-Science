@@ -35,9 +35,6 @@ notebook(dir=".")
 
 **Schedule** (all times are EST time zone)
 
-### TODO: update to match current lecture titles
-### TODO remove old youtube links
-
 <table>
 <tr><td><b>Day 1 (Tuesday, Jan 20, 2026)</b></td><td>11am-12:30pm</td><td>Quick introduction to Julia</td></tr>
 <tr><td>&nbsp;</td><td>1pm-3pm</td><td>Handling data in Julia</td></tr>
