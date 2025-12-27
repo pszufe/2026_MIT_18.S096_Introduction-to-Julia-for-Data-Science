@@ -1,6 +1,6 @@
 # Introduction to Julia for Data Science
 ## Quick introduction to Julia
-Day 1 (Tuesday, Jan 16, 2024, 11:00am – 12:30pm)
+Day 1 (Tuesday, Jan 20, 2026, 11:00am – 12:30pm)
 
 
 

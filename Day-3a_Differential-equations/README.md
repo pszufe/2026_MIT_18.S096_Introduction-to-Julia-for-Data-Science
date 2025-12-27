@@ -1,6 +1,6 @@
 # Introduction to Julia for Data Science
 ## Differential equations
-Day 4 (Friday, Jan 19, 2024, 11am – 12:30pm)
+Day 3 (Thursday, Jan 22, 2026, 11am – 12:30pm)
 
 ### Teaching objectives:
 - Student will understand where importance of differential equations and numerical methods of solving them.

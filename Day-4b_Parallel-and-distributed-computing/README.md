@@ -1,7 +1,6 @@
 # Introduction to Julia for Data Science
 ## Parallel and distributed computing
-Day 4 (Friday, Jan 19, 2024, 1pm – 3pm)
-
+Day 4 (Friday, Jan 23, 2026, 1pm – 3pm)
 
 ### Instructors:
 - Julian Samaroo

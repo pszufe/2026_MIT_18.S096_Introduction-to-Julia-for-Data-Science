@@ -1,5 +1,6 @@
 # Introduction to Julia for Data Science
 ## Mining complex networks introduction
+Day 3 (Thursday, Jan 22, 2026, 1pm – 3pm)
 
 ### Class objectives
 TODO
