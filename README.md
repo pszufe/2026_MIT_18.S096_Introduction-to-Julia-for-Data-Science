@@ -6,7 +6,7 @@ MIT_18.S097
 
 **Time:** TWRF 11am-12:30pm; 1pm-2:30pm
 
-**Location**: Matchessusets Institute of Technology, Boston, MA, USA
+**Location**: Massachusetts Institute of Technology, Cambridge, Massachusetts, USA
 
 **Room:** This class will meet in *TBA*. See http://whereis.mit.edu/?mapterms=2-132 for location.
 
