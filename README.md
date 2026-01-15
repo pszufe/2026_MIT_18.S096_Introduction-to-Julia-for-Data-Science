@@ -40,6 +40,11 @@ Installation instructions can be found in [materials for the day 1](Day-1a_Quick
 <tr><td>&nbsp;</td><td>1pm-2:30pm</td><td>Parallel and distributed computing</td></tr>
 </table>
 
+**Live stream links**
+- Jan 20:  https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=19e32cfc-816e-40c0-ba47-b3d2014dd323
+- Jan 21:  https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4799a317-b062-4efd-9931-b3d2014dd362
+- Jan 22:  https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=86b55b25-1503-4423-bdec-b3d2014dd37c
+- Jan 23:  https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=649dddb2-7a43-4113-8664-b3d2014dd397
 
 
 **Grading**
