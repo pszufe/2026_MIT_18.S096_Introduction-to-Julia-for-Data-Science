@@ -40,6 +40,11 @@ Installation instructions can be found in [materials for the day 1](Day-1a_Quick
 <tr><td>&nbsp;</td><td>1pm-2:30pm</td><td>Optimization models</td></tr>
 </table>
 
+
+Note - to view presenters screen in Panopto you need to select camera in the bottom right corner:
+
+<img src="cameras.png" alt="Cameras" width="300">
+
 **Live stream links**
 - Jan 20:  https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=19e32cfc-816e-40c0-ba47-b3d2014dd323
 - Jan 21:  https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4799a317-b062-4efd-9931-b3d2014dd362
